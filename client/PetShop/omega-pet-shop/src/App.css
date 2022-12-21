@@ -1,0 +1,26 @@
+.form-login-register {
+    height: 100vh;
+}
+
+.img-login {
+    width: 350px;
+    height: 350px;
+}
+
+.img-nav {
+    width: 180px;
+    height: 180px;
+}
+
+.heigth-7 {
+    height: 7rem;
+}
+
+.width-90 {
+    width: 90%;
+}
+
+.navbar-nav .navbar:hover {
+    color: rgb(35, 146, 13);
+    transition: .2s ease-in-out;
+}
